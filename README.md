@@ -26,7 +26,7 @@ Hi! I'm novice hoping to be backend developer.
 [![IntelliJIDEA Badge](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white&link=https://www.jetbrains.com//)](https://www.jetbrains.com//)
 [![PyCharm Badge](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white&link=https://www.jetbrains.com/pycharm/)](https://www.jetbrains.com/pycharm/)
 [![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
-[![NetBeans](https://img.shields.io/badge/NetBeans-blue?logo=apache-netbeans-ide&logoColor=white)](YOUR_NETBEANS_LINK_HERE)
+[![NetBeans](https://img.shields.io/badge/NetBeans-blue?style=flat-square&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yooune_01)
 [![wakatime](https://wakatime.com/badge/user/3b3f05f6-f827-4974-95f5-6f6845498064.svg)](https://wakatime.com/@3b3f05f6-f827-4974-95f5-6f6845498064)
