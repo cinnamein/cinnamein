@@ -1,6 +1,6 @@
 <div align="left">
 
-## Hello, I'm Chaemin!
+## Chaemin Yooun(윤채민)
 Hi! I'm novice hoping to be backend developer.
 
 
