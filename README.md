@@ -1,8 +1,9 @@
 <div align="left">
 
 ## Chaemin Yooun(윤채민)
-Hi! I'm novice hoping to be backend developer.
-
+- Novice hoping to be backend developer
+- Undergraduated student at Dongeui University
+- Member of GDSC DEU from 2021 to 2024
 
 ## Stacks
 ### Languages and Skills
