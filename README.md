@@ -7,7 +7,7 @@
   - Major: Computer software
   - Micro degree: Convergence BioHealth
 - Member of GDSC DEU from 2021 to 2024
-- Leader of major's volunteer club, CPU
+- Leader of major's volunteer club, CPU from 2021 to 2022
 
 ## Stacks
 ### Languages and Skills
