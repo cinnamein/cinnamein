@@ -6,6 +6,8 @@
 - Member of GDSC from 2021 to 2024
   
 [![wakatime](https://wakatime.com/badge/user/3b3f05f6-f827-4974-95f5-6f6845498064.svg)](https://wakatime.com/@3b3f05f6-f827-4974-95f5-6f6845498064)
+[![notion](https://img.shields.io/badge/Notion-181717.svg?&style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/oyune/Chaemin-Yooun-c29e7a4b17394e988d12200ae690b335?pvs=4)
+
 
 ### Languages and Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
@@ -17,7 +19,6 @@
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Notion-181717?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so//)](https://www.notion.so"/>
 </br>
 
 </div>
