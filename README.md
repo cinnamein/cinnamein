@@ -4,9 +4,9 @@
 - I'm a backend developer
 - Majored Computer software in Dongeui University
 - Member of GDSC from 2021 to 2024
-  
-[![wakatime](https://wakatime.com/badge/user/3b3f05f6-f827-4974-95f5-6f6845498064.svg)](https://wakatime.com/@3b3f05f6-f827-4974-95f5-6f6845498064)
+
 [![notion](https://img.shields.io/badge/Notion-181717.svg?&style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/oyune/Chaemin-Yooun-c29e7a4b17394e988d12200ae690b335?pvs=4)
+[![wakatime](https://wakatime.com/badge/user/3b3f05f6-f827-4974-95f5-6f6845498064.svg)](https://wakatime.com/@3b3f05f6-f827-4974-95f5-6f6845498064)
 
 
 ### Languages and Skills
