@@ -9,7 +9,7 @@
 [![wakatime](https://wakatime.com/badge/user/3b3f05f6-f827-4974-95f5-6f6845498064.svg)](https://wakatime.com/@3b3f05f6-f827-4974-95f5-6f6845498064)
 
 
-### Languages and Skills
+### Stacks
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
