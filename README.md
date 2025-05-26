@@ -6,7 +6,7 @@
 - Likelion Spring Backend Plus 4th
 
 [![wakatime](https://wakatime.com/badge/user/3b3f05f6-f827-4974-95f5-6f6845498064.svg)](https://wakatime.com/@3b3f05f6-f827-4974-95f5-6f6845498064)
-[![solved.ac/minimine](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![solved.ac/minimine](http://mazassumnida.wtf/api/mini/generate_badge?boj=minimine)](https://solved.ac/minimine)
 
 
 ### Stacks
