@@ -1,6 +1,6 @@
 <div align="left">
 
-## Chaemin Yooun
+## Chaemin Yoon
 - Member of GDGoC from 2021 to 2024
 - Likelion Spring Backend Plus 4th
 
