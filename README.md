@@ -2,8 +2,8 @@
 
 ## Chaemin Yoon
 - Member of GDGoC DEU from 2021 to 2024
-- Likelion Spring Backend Plus 4th
-- Future & Dream Academy 1st
+- 멋쟁이 사자처럼 Spring Backend Plus 4기
+- 신세계 Future & Dream Academy 1기
 
 [![wakatime](https://wakatime.com/badge/user/3b3f05f6-f827-4974-95f5-6f6845498064.svg)](https://wakatime.com/@3b3f05f6-f827-4974-95f5-6f6845498064)
 [![solved.ac/minimine](http://mazassumnida.wtf/api/mini/generate_badge?boj=minimine)](https://solved.ac/minimine)
