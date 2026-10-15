@@ -1,7 +1,7 @@
 <div align="left">
 
 ## Chaemin Yoon
-- Member of GDGoC DEU from 2021 to 2024
+- Member of GDGoC from 2021 to 2024
 - 멋쟁이 사자처럼 Spring Backend Plus 4기
 - 신세계 Future & Dream Academy 1기
 
